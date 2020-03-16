@@ -1,0 +1,20 @@
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cache-Control: max-age=0
+Connection: keep-alive
+Content-Length: 476
+Content-Type: application/x-www-form-urlencoded
+Cookie: JSESSIONID=92DE670B19153E5543178A93F1A74492
+Host: www.gdjw.zjut.edu.cn
+Origin: http://www.gdjw.zjut.edu.cn
+Referer: http://www.gdjw.zjut.edu.cn/jwglxt/xtgl/login_slogin.html?language=zh_CN&_t=1584012856942
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36
+
+
+csrftoken: 5f28b3c8-5e71-42b7-8a30-f1e6c6333dae,5f28b3c85e7142b78a30f1e6c6333dae
+yhm: 312
+mm: bno0R48fDHWi9xpraT2pIXuvFrZw8BEaFyyJ8pPK1zDMtEQ261+pS6DFNOuAI8we46clF4BnvjgboChHfGAWI3qDMgJBevOWIyONr9jbUOwDD8xW71mc/bZliGjg7u/04pxTIC8YpD8r+T5KlYhq18NPQMv+rgxZPG2rH3CDSxI=
+mm: bno0R48fDHWi9xpraT2pIXuvFrZw8BEaFyyJ8pPK1zDMtEQ261+pS6DFNOuAI8we46clF4BnvjgboChHfGAWI3qDMgJBevOWIyONr9jbUOwDD8xW71mc/bZliGjg7u/04pxTIC8YpD8r+T5KlYhq18NPQMv+rgxZPG2rH3CDSxI=
+yzm: 35e6px
