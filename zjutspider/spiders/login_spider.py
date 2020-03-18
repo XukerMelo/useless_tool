@@ -39,9 +39,9 @@ class LoginSpiderSpider(scrapy.Spider):
         driver.get(url)
         while True:
             yhm = driver.find_element_by_id('yhm')
-            yhm.send_keys("201806062327")
+            yhm.send_keys("*****")
             mm = driver.find_element_by_id('mm')
-            mm.send_keys('wzyygy34')
+            mm.send_keys('*****')
 
             yzmPic = WebDriverWait(driver, 10).until(
                 EC.presence_of_element_located((By.ID, "yzmPic"))
