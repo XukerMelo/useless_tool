@@ -78,11 +78,12 @@ class LoginSpiderSpider(scrapy.Spider):
             f.write(jsonCookies)
 
     def parse(self, response):
-
+        if response.url.find("login"):
+            self.login_gdjw()
         print("=" * 40)
-        print("response text: %s" % response.text)
+        print("response text: %s" % response.url)
         print("response headers: %s" % response.headers)
-        print("response meta: %s" % response.meta)
+        print("response status: %s" % response.status)
         print("request headers: %s" % response.request.headers)
         print("request cookies: %s" % response.request.cookies)
         print("request meta: %s" % response.request.meta)
